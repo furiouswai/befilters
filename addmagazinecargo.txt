@@ -1,0 +1,3 @@
+5=300Rnd_25mm_GAU12
+5=2000Rnd_23mm_AZP85
+5=EvMoney
